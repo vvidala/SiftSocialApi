@@ -1,0 +1,20 @@
+{
+  "name": "SiftSocialApi",
+  "version": "0.0.1",
+  "description": "Api to handle the Social Networking aspect of the Sift client for ForRent.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "Sift",
+    "Forrent",
+    "api",
+    "hapi"
+  ],
+  "author": "Vamsi Vidala",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^6.10.0"
+  }
+}
