@@ -15,6 +15,7 @@
   "author": "Vamsi Vidala",
   "license": "ISC",
   "dependencies": {
+    "good": "^2.3.0",
     "hapi": "^6.10.0"
   }
 }
